@@ -1,0 +1,12 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 23px;
+  column-gap: 23px;
+}
+.justify-cont {
+  text-align: justify;
+}
+.switchMargin {
+  margin-left: 5px;
+}
